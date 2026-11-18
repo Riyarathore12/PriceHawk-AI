@@ -6,3 +6,42 @@ Shopping comparison prototype using SerpAPI Google Shopping, RapidFuzz title mat
 
 ## Shop by Image
 Choose Search by Image, upload a JPG, PNG or WebP (up to 8 MB), grant consent and click Identify product from image. Gemini generates an editable shopping phrase. Click Search prices to retrieve listings through SerpAPI. This is image-to-text shopping search, not reverse-image matching; similar products are not necessarily identical. Demo prices are illustrative. Images are sent to Gemini only after consent and are not saved by the app.
+
+
+## 📸 Application Screenshots
+
+### Ai Assistant
+
+![Ai Assistant](screenshots/ai-assistant.png)
+
+---
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Deal Calculator
+
+![Deal Calculator](screenshots/deal-calculator.png)
+
+---
+
+### Image Search
+
+![Image Search](screenshots/image-search.png)
+
+---
+
+### Price Comparison
+
+![Price Comparison](screenshots/price-comparison.png)
+
+---
+
+### Wishlist History
+
+![Wishlist History](screenshots/wishlist-history.png)
+
+---
